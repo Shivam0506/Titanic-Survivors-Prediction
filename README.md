@@ -22,3 +22,7 @@ Testing Accuracy (78.21%): Slightly lower accuracy on the testing set may indica
 3.Recall (0.620): Lower recall suggests that the model correctly identifies 62% of actual survivors. This means there are a considerable number of false negatives (missed survivors).
 
 4.F1 Score (0.715): The F1 Score balances precision and recall. A score of 0.715 indicates a reasonable balance but leaves room for improvement
+
+
+![image](https://github.com/user-attachments/assets/c8ed355b-d0af-4526-8437-9ceee4b9b130)
+
